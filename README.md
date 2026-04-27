@@ -115,6 +115,12 @@ Agent 啟動時將會讀取此技能，並在適當的時機啟用。
 
 本技能指南主要基於 [Wikipedia:Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) 頁面，由 WikiProject AI Cleanup 社群維護。
 
+## 支持
+
+如果 `go-ccstatusline` 節省了您的時間或讓您的 Claude Code 會話變得更加愉快，請考慮請我喝杯咖啡。每一項貢獻都有助於維持專案的積極維護。
+
+<a href='https://ko-fi.com/O4O21YCECP' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 ## 許可
 
 本翻譯專案遵循原專案的許可協議，核心內容基於維基百科社群的觀察和總結。
